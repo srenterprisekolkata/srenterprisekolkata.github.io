@@ -9,9 +9,7 @@ function App() {
   return (
     <>
       {/* <!-- Preloader --> */}
-      <div id="preloader">
-        <div className="south-load"></div>
-      </div>
+
       {/* ------------------------------------------------------------------------------------------ */}
       {/* <!-- ##### Header Area Start ##### --> */}
       <header className="header-area">
