@@ -244,7 +244,8 @@ function App() {
               <div className="section-heading wow fadeInUp">
                 <h2>Featured Properties</h2>
                 <p>
-                  Premium homes and plots by SR Enterprise – Build for Tomorrow.
+                  Premium homes and plots by SR Enterprise – Build Tomorrow With
+                  Us.
                 </p>
               </div>
             </div>
@@ -386,7 +387,7 @@ function App() {
                     SR Enterprise is a trusted real estate company dedicated to
                     helping people find their dream homes and smart property
                     investments. With quality projects and reliable service, we
-                    proudly follow our vision – Build for Tomorrow.
+                    proudly follow our vision – Build Tomorrow With Us.
                   </p>
                 </div>
               </div>
